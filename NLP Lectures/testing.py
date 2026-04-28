@@ -1,0 +1,3 @@
+import nlp_lecture_2_b_text_preprocessing_techniques_functions as lecture_2
+
+lecture_2.lowercase_text()
